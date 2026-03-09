@@ -1,0 +1,16 @@
+# .gitignore
+
+.DS_Store
+*~
+\#*
+.\#*
+*.pyc
+
+output/
+
+*.dat
+*.eps
+*.pdf
+*.ps
+*.root
+*.spng
